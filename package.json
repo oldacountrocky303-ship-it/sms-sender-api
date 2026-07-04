@@ -1,0 +1,9 @@
+{
+  "name": "sms-sender-api",
+  "version": "1.0.0",
+  "description": "Free SMS sender API using Android phone as SMS gateway, deployed on Vercel",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  }
+}
